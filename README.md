@@ -50,6 +50,8 @@ Inside the `/path/to/any/folder`, you will see a file named `private_key.json`. 
 
 You can test the UTC/JSON keystore file at [MyCrypto](https://legacy.mycrypto.com/#view-wallet-info) by choosing `Keystore / JSON File` option in that webpage.
 
+![](images/demo.gif)
+
 ### Uninstall the CLI
 
 If you no longer need the CLI, you can remove it by running the following command:
