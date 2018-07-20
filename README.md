@@ -26,6 +26,20 @@ $ npm link
 ```
 $ cd /path/to/any/folder
 $ private-key-to-json
+
+**************************** WARNING *****************************
+* This will create/replace private_key.json file in this folder. *
+* ------------------ Press Ctrl + C to abort. ------------------ *
+******************************************************************
+
+Please enter the plain private key:
+xxx
+
+Please enter the passphrase:
+<just-press-enter-if-it-has-no-passphrase>
+
+
+JSON keystore generated. See private_key.json file.
 ```
 
 #### Part 3 - The UTC/JSON keystore
