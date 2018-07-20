@@ -1,4 +1,4 @@
-A simply CLI tool to convert Ethereum plain private key to UTC/JSON keystore format.
+A simple CLI tool to convert Ethereum plain private key to UTC/JSON keystore format.
 
 ---
 
