@@ -16,7 +16,7 @@ Please don't share your private key (plain text or UTC/JSON keystore format) to 
 $ cd /path/to/projects
 $ git clone https://github.com/zulhfreelancer/private-key-to-json.git
 $ cd private-key-to-json
-$ npm link -s
+$ npm link
 ```
 
 `private-key-to-json` command will be available globally.
