@@ -1,0 +1,13 @@
+{
+  "name": "private-key-to-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "ethereumjs-wallet": "^0.6.0",
+    "json-beautify": "^1.0.1"
+  },
+  "preferGlobal": true,
+  "bin": "./index.js"
+}
